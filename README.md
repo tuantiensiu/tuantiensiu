@@ -1,4 +1,5 @@
-### Hi there 👋
+# Hi, I’m Tien Nguyen!   <img src="https://cdn3.emoji.gg/emojis/1399-panda.png" width="64px" height="64px" alt="totoro">
+
 
 <!--
 **tuantiensiu/tuantiensiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
